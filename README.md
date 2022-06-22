@@ -6,5 +6,6 @@ I'm a PHP and Go developer, specialising in building scalable web apps. Currentl
 
 ### Get in touch
 
-* Twitter: https://twitter.com/eddturtle
-* Personal site: https://designedbyaturtle.com/
+* Twitter - [twitter.com/eddturtle](https://twitter.com/eddturtle)
+* Personal site - [designedbyaturtle.com](https://designedbyaturtle.com/)
+* Author @ [makewithhugo.com](https://makewithhugo.com/) and [gophercoding.com](https://gophercoding.com/)
